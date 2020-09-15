@@ -1,0 +1,10 @@
+public class PrimeiroPrograma
+{ 
+    Public static void main(String[] args)
+    {
+        intrução1;
+        intrução2;
+        intrução3;
+        intrução4;
+    }
+}
